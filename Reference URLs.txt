@@ -1,0 +1,2 @@
+독서 플랫폼: https://livebook.manning.com/book/modern-time-series-analysis-in-python/chapter-1#8
+소스 코드: https://github.com/marcopeix/TimeSeriesForecastingInPython
